@@ -1,4 +1,4 @@
-# Sudoku - Backtracking graph coloring based strategy
+# Sudoku - A backtracking graph coloring based strategy
 
 This project is responsible for solving the Sudoku game with a backtracking graph coloring based strategy. The configuration can be changed on *config* file and there are some test files on examples folder.
 
